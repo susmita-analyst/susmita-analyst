@@ -94,7 +94,7 @@ class SusmitaAgasti:
 </div>
 
 <!-- Activity Graph -->
-<a href="https://github.com/SusmitaAgasti/github-readme-activity-graph">
+<a href="https://github.com/susmita-analyst/github-readme-activity-graph">
   <img alt="Susmita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SusmitaAgasti&custom_title=Susmita's%20Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
 </a>
 
