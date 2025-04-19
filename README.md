@@ -96,7 +96,7 @@ class SusmitaAgasti:
 
 <!-- Activity Graph -->
 <a href="https://github.com/susmita-analyst/github-readme-activity-graph">
-  <img alt="Susmita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SusmitaAgasti&custom_title=Susmita's%20Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=9D68ED&point=F8D847&area_color=9D68ED&title_color=9D68ED&area=true" />
+  <img alt="Susmita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=susmita-analyst&custom_title=Susmita's%20Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=9D68ED&point=F8D847&area_color=9D68ED&title_color=9D68ED&area=true" />
 </a>
 
 <!-- Education Timeline -->
