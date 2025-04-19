@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Animated Header with 3D Effect -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=SusmitaAgasti&desc=Computer%20Science%20Student%20%7C%20Data%20Analyst&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,82,251&height=300&section=header&text=SusmitaAgasti&desc=Computer%20Science%20Student%20%7C%20Data%20Analyst&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
     <div>
   <!-- Multi-line Typing Animation -->
     <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E64BD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Data+Analysis+Portfolio+📊;Transforming+Data+into+Actionable+Insights+💡;Problem+Solving+with+Python+and+SQL+⚙️" alt="Typing SVG Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D68ED&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Data+Analysis+Portfolio+📊;Transforming+Data+into+Actionable+Insights+💡;Problem+Solving+with+Python+and+SQL+⚙️" alt="Typing SVG Animation" />
     </a>
   <div>
         
@@ -19,16 +19,16 @@
 
   <!-- Profile Views and Stats -->
   <div>
-    <img src="https://komarev.com/ghpvc/?username=SusmitaAgasti&style=for-the-badge&color=blueviolet">
-    <img src="https://img.shields.io/github/followers/SusmitaAgasti?style=for-the-badge&color=blueviolet">
-    <img src="https://img.shields.io/github/stars/SusmitaAgasti?style=for-the-badge&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=SusmitaAgasti&style=for-the-badge&color=9D68ED">
+    <img src="https://img.shields.io/github/followers/SusmitaAgasti?style=for-the-badge&color=9D68ED">
+    <img src="https://img.shields.io/github/stars/SusmitaAgasti?style=for-the-badge&color=9D68ED">
   </div>
 </div>
 
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
+## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="50"> About Me
 
-<img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif" width="400" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 
 ```python
 class SusmitaAgasti:
@@ -50,7 +50,7 @@ class SusmitaAgasti:
 ```
 
 <!-- Tech Stack -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Tech Stack
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40"> Tech Stack
 
 <div align="center">
   <!-- Data Analysis -->
@@ -61,6 +61,7 @@ class SusmitaAgasti:
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   </p>
   
   <!-- Programming Languages -->
@@ -77,7 +78,7 @@ class SusmitaAgasti:
 </div>
 
 <!-- Projects Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Projects
+## <img src="https://media.giphy.com/media/3oKIPeQ5Uz4gU6ID5K/giphy.gif" width="40"> Projects
 
 - **Data Analysis Portfolio** - Collection of data analysis projects showcasing Python and SQL skills
 - **Student Performance Analysis** - Statistical analysis of factors affecting academic performance
@@ -86,26 +87,36 @@ class SusmitaAgasti:
 - **Database Management System** - Custom SQL database solution for inventory management
 
 <!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusmitaAgasti&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaAgasti&theme=radical&hide_border=true&background=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusmitaAgasti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaAgasti&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <!-- Activity Graph -->
-<a href="https://github.com/susmita-analyst/github-readme-activity-graph">
-  <img alt="Susmita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SusmitaAgasti&custom_title=Susmita's%20Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Susmita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SusmitaAgasti&custom_title=Susmita's%20Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=9D68ED&point=F8D847&area_color=9D68ED&title_color=9D68ED&area=true" />
 </a>
 
 <!-- Education Timeline -->
-## 🎓 Education
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"> Education
 - **B.Tech in Computer Science Engineering** (Expected 2025)
   - Final Year Student
   - Coursework: Data Structures, Algorithms, Database Management, Data Analysis, Machine Learning
 
+<!-- Skills Highlight -->
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> Core Skills
+
+- **Data Cleaning & Preprocessing** - Transforming raw data into analysis-ready formats
+- **Statistical Analysis** - Applying statistical methods to extract insights
+- **Data Visualization** - Creating clear, impactful visual representations of data
+- **SQL Database Management** - Designing and querying relational databases
+- **Python Programming** - Building data analysis scripts and automation tools
+- **Business Intelligence** - Converting data insights into actionable business recommendations
+
 <!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
+## <img src="https://media.giphy.com/media/5NUVqoIKJ9s55ZyLrz/giphy.gif" width="40"> Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/susmita-agasti">
@@ -125,8 +136,8 @@ class SusmitaAgasti:
 <!-- Random Dev Quote -->
 <div align="center">
   <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 </div>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,82,251&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80" />
