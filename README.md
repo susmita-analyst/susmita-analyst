@@ -90,12 +90,12 @@ class SusmitaAgasti:
 ## <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusmitaAgasti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaAgasti&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susmita-analyst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=susmita-analysti&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/susmita-analyst/github-readme-activity-graph">
   <img alt="Susmita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SusmitaAgasti&custom_title=Susmita's%20Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=9D68ED&point=F8D847&area_color=9D68ED&title_color=9D68ED&area=true" />
 </a>
 
